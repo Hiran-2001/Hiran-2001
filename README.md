@@ -1,8 +1,10 @@
 ### Hello World, I'm Hiran Raj 👋
 
-⨀ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+⨀ 🔭 I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 ⨀ 🌱 Currently I'm traversing numerous JavaScript FW && Libs.
+
+⨀ 📫 How to reach me hiranrajofficial@gmail.com
 
 ⨀ 🤝 Happy to contribute open source
 
@@ -20,7 +22,7 @@
  
 </div>
 
-### ⌨️ Languages && Tools:
+### :hammer_and_wrench: Languages && Tools:
 
 <div style="display:grid;col-gap:12px">
 
