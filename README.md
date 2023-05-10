@@ -8,7 +8,7 @@
 
 ⨀ 🤝 Happy to contribute open source
 
-⨀ ⚡ Fun Fact => love to make others 😁😁
+⨀ ⚡ Fun Fact : love to make others 😁😁
 
 ### Connect with me
 
