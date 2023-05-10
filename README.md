@@ -9,17 +9,15 @@
 
 ### Connect with me
 
-[<div id="badges">
-  <a href="your-linkedin-URL">
+<div id="badges">
+  <a href="https://www.linkedin.com/in/hiran-raj-24879a215/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram.svg&psig=AOvVaw2-EHiyyhuRSemLBMzB5P2U&ust=1683820920923000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjSneyP6_4CFQAAAAAdAAAAABAJ" alt="Instagram"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>]
+ 
+</div>
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -39,5 +37,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
