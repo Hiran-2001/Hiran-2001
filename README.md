@@ -2,7 +2,7 @@
 
 ⨀ 🔭 I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-⨀ 🌱 Currently I'm traversing numerous JavaScript FW && Libs.
+⨀ 🌱 Currently I'm traversing numerous JavaScript FWs && Libs.
 
 ⨀ 📫 How to reach me hiranrajofficial@gmail.com
 
