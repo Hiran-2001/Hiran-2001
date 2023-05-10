@@ -14,13 +14,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AInstagram.svg&psig=AOvVaw2-EHiyyhuRSemLBMzB5P2U&ust=1683820920923000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjSneyP6_4CFQAAAAAdAAAAABAJ" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
  
 </div>
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fprogramming-language-icon&psig=AOvVaw0Mg0pzCplOhMHdueC8ABM9&ust=1683821471382000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLj2uPOR6_4CFQAAAAAdAAAAABAF: Languages :
 
 <div>
   
