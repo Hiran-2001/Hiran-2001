@@ -4,7 +4,7 @@
 
 ⨀ 🌱 Currently I'm traversing numerous JavaScript FWs && Libs.
 
-⨀ 📫 How to reach me hiranrajofficial@gmail.com
+⨀ 📫 How to reach me dev.rjhiran@gmail.com
 
 ⨀ 🤝 Happy to contribute open source
 
