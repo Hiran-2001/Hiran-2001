@@ -48,7 +48,8 @@
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
 
- <img src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon-thumbnail.png" title="Redux" alt="Redux " width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Redux" alt="Redux " width="40" height="40"/>
 
 </div>
