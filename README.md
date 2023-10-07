@@ -46,7 +46,7 @@
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
 
-<img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-dist.svg" title="Redux" alt="Redux " width="40" height="40"/>
+<img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" title="Redux" alt="Redux " width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Redux" alt="Redux " width="40" height="40"/>
    
