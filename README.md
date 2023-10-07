@@ -33,7 +33,9 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-  
+
+ <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
@@ -41,6 +43,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
+
+<img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-dist.svg" title="Redux" alt="Redux " width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Redux" alt="Redux " width="40" height="40"/>
    
