@@ -26,30 +26,25 @@
 
 <div style="display:grid;col-gap:12px">
 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
+  
  
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
-
-<img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" title="Redux" alt="Redux " width="40" height="50"/>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Redux" alt="Redux " width="40" height="40"/>
-   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Redux" alt="Redux " width="40" height="40"/>
+     
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
@@ -57,5 +52,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Redux" alt="Redux " width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 
 </div>
